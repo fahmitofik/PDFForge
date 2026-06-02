@@ -24,15 +24,11 @@ Modern browser-based image-to-PDF converter built with HTML, CSS, JavaScript, an
 
 ---
 
----
-
 ## 📸 Screenshots
 
 ### Main Interface
 
-![PDFForge Screenshot](assets/screenshots/main.png)
-
----
+![PDFForge Screenshot](assets/screenshots/image.png)
 
 ---
 
